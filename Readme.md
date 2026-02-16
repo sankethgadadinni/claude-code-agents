@@ -3,7 +3,7 @@
 ## 🎯 Overview
 
 This is a **plugin-based** multi-agent orchestrator that:
-- ✅ **No hard-coded agents** - Register any agent dynamically
+- ✅ **Register agents** - Register any agent dynamically
 - ✅ **Task decomposition** - Automatically breaks down complex tasks
 - ✅ **Planning mode** - Uses `permission_mode="plan"` to show plans before execution
 - ✅ **Configuration-driven** - Define agents via JSON/code
